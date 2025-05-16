@@ -1,0 +1,274 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WinForm C#\\QUANLYRAPPHIM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0484E578-D2B7-4018-BCED-016F4423FF87}|loogin\\QUANLYRAPPHIM.csproj|d:\\winform c#\\quanlyrapphim\\loogin\\dto\\cinema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0484E578-D2B7-4018-BCED-016F4423FF87}|loogin\\QUANLYRAPPHIM.csproj|solutionrelative:loogin\\dto\\cinema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0484E578-D2B7-4018-BCED-016F4423FF87}|loogin\\QUANLYRAPPHIM.csproj|d:\\winform c#\\quanlyrapphim\\loogin\\dao\\ticketdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0484E578-D2B7-4018-BCED-016F4423FF87}|loogin\\QUANLYRAPPHIM.csproj|solutionrelative:loogin\\dao\\ticketdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0484E578-D2B7-4018-BCED-016F4423FF87}|loogin\\QUANLYRAPPHIM.csproj|d:\\winform c#\\quanlyrapphim\\loogin\\frmtheatre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0484E578-D2B7-4018-BCED-016F4423FF87}|loogin\\QUANLYRAPPHIM.csproj|solutionrelative:loogin\\frmtheatre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0484E578-D2B7-4018-BCED-016F4423FF87}|loogin\\QUANLYRAPPHIM.csproj|D:\\WinForm C#\\QUANLYRAPPHIM\\loogin\\mainformnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0484E578-D2B7-4018-BCED-016F4423FF87}|loogin\\QUANLYRAPPHIM.csproj|solutionrelative:loogin\\mainformnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0484E578-D2B7-4018-BCED-016F4423FF87}|loogin\\QUANLYRAPPHIM.csproj|D:\\WinForm C#\\QUANLYRAPPHIM\\loogin\\frmtheatre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0484E578-D2B7-4018-BCED-016F4423FF87}|loogin\\QUANLYRAPPHIM.csproj|solutionrelative:loogin\\frmtheatre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0484E578-D2B7-4018-BCED-016F4423FF87}|loogin\\QUANLYRAPPHIM.csproj|d:\\winform c#\\quanlyrapphim\\loogin\\btnnhanvien\\staffuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0484E578-D2B7-4018-BCED-016F4423FF87}|loogin\\QUANLYRAPPHIM.csproj|solutionrelative:loogin\\btnnhanvien\\staffuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0484E578-D2B7-4018-BCED-016F4423FF87}|loogin\\QUANLYRAPPHIM.csproj|d:\\winform c#\\quanlyrapphim\\loogin\\btnnhanvien\\staffuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0484E578-D2B7-4018-BCED-016F4423FF87}|loogin\\QUANLYRAPPHIM.csproj|solutionrelative:loogin\\btnnhanvien\\staffuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0484E578-D2B7-4018-BCED-016F4423FF87}|loogin\\QUANLYRAPPHIM.csproj|d:\\winform c#\\quanlyrapphim\\loogin\\btntaikhoan\\accountuc .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0484E578-D2B7-4018-BCED-016F4423FF87}|loogin\\QUANLYRAPPHIM.csproj|solutionrelative:loogin\\btntaikhoan\\accountuc .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0484E578-D2B7-4018-BCED-016F4423FF87}|loogin\\QUANLYRAPPHIM.csproj|d:\\winform c#\\quanlyrapphim\\loogin\\btndulieu\\genreuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0484E578-D2B7-4018-BCED-016F4423FF87}|loogin\\QUANLYRAPPHIM.csproj|solutionrelative:loogin\\btndulieu\\genreuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0484E578-D2B7-4018-BCED-016F4423FF87}|loogin\\QUANLYRAPPHIM.csproj|d:\\winform c#\\quanlyrapphim\\loogin\\btndulieu\\screentypeuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0484E578-D2B7-4018-BCED-016F4423FF87}|loogin\\QUANLYRAPPHIM.csproj|solutionrelative:loogin\\btndulieu\\screentypeuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0484E578-D2B7-4018-BCED-016F4423FF87}|loogin\\QUANLYRAPPHIM.csproj|d:\\winform c#\\quanlyrapphim\\loogin\\frmreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0484E578-D2B7-4018-BCED-016F4423FF87}|loogin\\QUANLYRAPPHIM.csproj|solutionrelative:loogin\\frmreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0484E578-D2B7-4018-BCED-016F4423FF87}|loogin\\QUANLYRAPPHIM.csproj|D:\\WinForm C#\\QUANLYRAPPHIM\\loogin\\frmreport.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0484E578-D2B7-4018-BCED-016F4423FF87}|loogin\\QUANLYRAPPHIM.csproj|solutionrelative:loogin\\frmreport.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0484E578-D2B7-4018-BCED-016F4423FF87}|loogin\\QUANLYRAPPHIM.csproj|D:\\WinForm C#\\QUANLYRAPPHIM\\loogin\\dao\\moviedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0484E578-D2B7-4018-BCED-016F4423FF87}|loogin\\QUANLYRAPPHIM.csproj|solutionrelative:loogin\\dao\\moviedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0484E578-D2B7-4018-BCED-016F4423FF87}|loogin\\QUANLYRAPPHIM.csproj|D:\\WinForm C#\\QUANLYRAPPHIM\\loogin\\btndulieu\\movieuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0484E578-D2B7-4018-BCED-016F4423FF87}|loogin\\QUANLYRAPPHIM.csproj|solutionrelative:loogin\\btndulieu\\movieuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0484E578-D2B7-4018-BCED-016F4423FF87}|loogin\\QUANLYRAPPHIM.csproj|D:\\WinForm C#\\QUANLYRAPPHIM\\loogin\\mainformnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0484E578-D2B7-4018-BCED-016F4423FF87}|loogin\\QUANLYRAPPHIM.csproj|solutionrelative:loogin\\mainformnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cinema.cs",
+              "DocumentMoniker": "D:\\WinForm C#\\QUANLYRAPPHIM\\loogin\\DTO\\Cinema.cs",
+              "RelativeDocumentMoniker": "loogin\\DTO\\Cinema.cs",
+              "ToolTip": "D:\\WinForm C#\\QUANLYRAPPHIM\\loogin\\DTO\\Cinema.cs",
+              "RelativeToolTip": "loogin\\DTO\\Cinema.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T04:15:11.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TicketDAO.cs",
+              "DocumentMoniker": "D:\\WinForm C#\\QUANLYRAPPHIM\\loogin\\DAO\\TicketDAO.cs",
+              "RelativeDocumentMoniker": "loogin\\DAO\\TicketDAO.cs",
+              "ToolTip": "D:\\WinForm C#\\QUANLYRAPPHIM\\loogin\\DAO\\TicketDAO.cs",
+              "RelativeToolTip": "loogin\\DAO\\TicketDAO.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAA7wD0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T03:48:10.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmTheatre.cs [Design]",
+              "DocumentMoniker": "D:\\WinForm C#\\QUANLYRAPPHIM\\loogin\\frmTheatre.cs",
+              "RelativeDocumentMoniker": "loogin\\frmTheatre.cs",
+              "ToolTip": "D:\\WinForm C#\\QUANLYRAPPHIM\\loogin\\frmTheatre.cs [Design]",
+              "RelativeToolTip": "loogin\\frmTheatre.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T03:43:08.139Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StaffUC.cs",
+              "DocumentMoniker": "D:\\WinForm C#\\QUANLYRAPPHIM\\loogin\\btnNhanvien\\StaffUC.cs",
+              "RelativeDocumentMoniker": "loogin\\btnNhanvien\\StaffUC.cs",
+              "ToolTip": "D:\\WinForm C#\\QUANLYRAPPHIM\\loogin\\btnNhanvien\\StaffUC.cs",
+              "RelativeToolTip": "loogin\\btnNhanvien\\StaffUC.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAA1wH0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T02:43:11.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountUC .cs [Design]",
+              "DocumentMoniker": "D:\\WinForm C#\\QUANLYRAPPHIM\\loogin\\btnTaikhoan\\AccountUC .cs",
+              "RelativeDocumentMoniker": "loogin\\btnTaikhoan\\AccountUC .cs",
+              "ToolTip": "D:\\WinForm C#\\QUANLYRAPPHIM\\loogin\\btnTaikhoan\\AccountUC .cs [Design]",
+              "RelativeToolTip": "loogin\\btnTaikhoan\\AccountUC .cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T02:42:47.166Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GenreUC.cs [Design]",
+              "DocumentMoniker": "D:\\WinForm C#\\QUANLYRAPPHIM\\loogin\\btnDulieu\\GenreUC.cs",
+              "RelativeDocumentMoniker": "loogin\\btnDulieu\\GenreUC.cs",
+              "ToolTip": "D:\\WinForm C#\\QUANLYRAPPHIM\\loogin\\btnDulieu\\GenreUC.cs [Design]",
+              "RelativeToolTip": "loogin\\btnDulieu\\GenreUC.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T02:42:26.014Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainFormnv.cs",
+              "DocumentMoniker": "D:\\WinForm C#\\QUANLYRAPPHIM\\loogin\\MainFormnv.cs",
+              "RelativeDocumentMoniker": "loogin\\MainFormnv.cs",
+              "ToolTip": "D:\\WinForm C#\\QUANLYRAPPHIM\\loogin\\MainFormnv.cs",
+              "RelativeToolTip": "loogin\\MainFormnv.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAiwF4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T16:35:23.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ScreenTypeUC.cs [Design]",
+              "DocumentMoniker": "D:\\WinForm C#\\QUANLYRAPPHIM\\loogin\\btnDulieu\\ScreenTypeUC.cs",
+              "RelativeDocumentMoniker": "loogin\\btnDulieu\\ScreenTypeUC.cs",
+              "ToolTip": "D:\\WinForm C#\\QUANLYRAPPHIM\\loogin\\btnDulieu\\ScreenTypeUC.cs [Design]",
+              "RelativeToolTip": "loogin\\btnDulieu\\ScreenTypeUC.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T02:42:22.961Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmTheatre.cs",
+              "DocumentMoniker": "D:\\WinForm C#\\QUANLYRAPPHIM\\loogin\\frmTheatre.cs",
+              "RelativeDocumentMoniker": "loogin\\frmTheatre.cs",
+              "ToolTip": "D:\\WinForm C#\\QUANLYRAPPHIM\\loogin\\frmTheatre.cs",
+              "RelativeToolTip": "loogin\\frmTheatre.cs",
+              "ViewState": "AgIAAPoAAAAAAAAAAAAcwAwBAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T17:13:01.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StaffUC.cs [Design]",
+              "DocumentMoniker": "D:\\WinForm C#\\QUANLYRAPPHIM\\loogin\\btnNhanvien\\StaffUC.cs",
+              "RelativeDocumentMoniker": "loogin\\btnNhanvien\\StaffUC.cs",
+              "ToolTip": "D:\\WinForm C#\\QUANLYRAPPHIM\\loogin\\btnNhanvien\\StaffUC.cs [Design]",
+              "RelativeToolTip": "loogin\\btnNhanvien\\StaffUC.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T02:43:00.26Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmReport.cs",
+              "DocumentMoniker": "D:\\WinForm C#\\QUANLYRAPPHIM\\loogin\\frmReport.cs",
+              "RelativeDocumentMoniker": "loogin\\frmReport.cs",
+              "ToolTip": "D:\\WinForm C#\\QUANLYRAPPHIM\\loogin\\frmReport.cs",
+              "RelativeToolTip": "loogin\\frmReport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T02:23:23.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmReport.Designer.cs",
+              "DocumentMoniker": "D:\\WinForm C#\\QUANLYRAPPHIM\\loogin\\frmReport.Designer.cs",
+              "RelativeDocumentMoniker": "loogin\\frmReport.Designer.cs",
+              "ToolTip": "D:\\WinForm C#\\QUANLYRAPPHIM\\loogin\\frmReport.Designer.cs",
+              "RelativeToolTip": "loogin\\frmReport.Designer.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAwEwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T02:23:20.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MovieUC.cs",
+              "DocumentMoniker": "D:\\WinForm C#\\QUANLYRAPPHIM\\loogin\\btnDulieu\\MovieUC.cs",
+              "RelativeDocumentMoniker": "loogin\\btnDulieu\\MovieUC.cs",
+              "ToolTip": "D:\\WinForm C#\\QUANLYRAPPHIM\\loogin\\btnDulieu\\MovieUC.cs",
+              "RelativeToolTip": "loogin\\btnDulieu\\MovieUC.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAArwHEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T17:13:24.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MovieDAO.cs",
+              "DocumentMoniker": "D:\\WinForm C#\\QUANLYRAPPHIM\\loogin\\DAO\\MovieDAO.cs",
+              "RelativeDocumentMoniker": "loogin\\DAO\\MovieDAO.cs",
+              "ToolTip": "D:\\WinForm C#\\QUANLYRAPPHIM\\loogin\\DAO\\MovieDAO.cs",
+              "RelativeToolTip": "loogin\\DAO\\MovieDAO.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA4wCYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T16:37:11.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainFormnv.cs [Design]",
+              "DocumentMoniker": "D:\\WinForm C#\\QUANLYRAPPHIM\\loogin\\MainFormnv.cs",
+              "RelativeDocumentMoniker": "loogin\\MainFormnv.cs",
+              "ToolTip": "D:\\WinForm C#\\QUANLYRAPPHIM\\loogin\\MainFormnv.cs [Design]",
+              "RelativeToolTip": "loogin\\MainFormnv.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T16:35:17.716Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

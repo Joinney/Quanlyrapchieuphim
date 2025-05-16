@@ -1,0 +1,32 @@
+C:\Users\DELL\source\repos\loogin\loogin\bin\Debug\loogin.exe.config
+C:\Users\DELL\source\repos\loogin\loogin\bin\Debug\loogin.exe
+C:\Users\DELL\source\repos\loogin\loogin\bin\Debug\loogin.pdb
+C:\Users\DELL\source\repos\loogin\loogin\bin\Debug\General.dll
+C:\Users\DELL\source\repos\loogin\loogin\bin\Debug\Hashids.net.dll
+C:\Users\DELL\source\repos\loogin\loogin\bin\Debug\General.xml
+C:\Users\DELL\source\repos\loogin\loogin\obj\Debug\QUANLYBANHANG.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\loogin\loogin\obj\Debug\loogin.LoginForm.resources
+C:\Users\DELL\source\repos\loogin\loogin\obj\Debug\loogin.MainForm.resources
+C:\Users\DELL\source\repos\loogin\loogin\obj\Debug\loogin.Properties.Resources.resources
+C:\Users\DELL\source\repos\loogin\loogin\obj\Debug\QUANLYBANHANG.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\loogin\loogin\obj\Debug\QUANLYBANHANG.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\loogin\loogin\obj\Debug\QUANLYBA.909FD013.Up2Date
+C:\Users\DELL\source\repos\loogin\loogin\obj\Debug\loogin.exe
+C:\Users\DELL\source\repos\loogin\loogin\obj\Debug\loogin.pdb
+C:\Users\DELL\source\repos\loogin\loogin\obj\Debug\loogin.HanghoaForm.resources
+D:\WinForm C#\loogin\loogin\bin\Debug\loogin.exe.config
+D:\WinForm C#\loogin\loogin\bin\Debug\loogin.exe
+D:\WinForm C#\loogin\loogin\bin\Debug\loogin.pdb
+D:\WinForm C#\loogin\loogin\bin\Debug\General.dll
+D:\WinForm C#\loogin\loogin\bin\Debug\Hashids.net.dll
+D:\WinForm C#\loogin\loogin\bin\Debug\General.xml
+D:\WinForm C#\loogin\loogin\obj\Debug\QUANLYBANHANG.csproj.AssemblyReference.cache
+D:\WinForm C#\loogin\loogin\obj\Debug\loogin.HanghoaForm.resources
+D:\WinForm C#\loogin\loogin\obj\Debug\loogin.LoginForm.resources
+D:\WinForm C#\loogin\loogin\obj\Debug\loogin.MainForm.resources
+D:\WinForm C#\loogin\loogin\obj\Debug\loogin.Properties.Resources.resources
+D:\WinForm C#\loogin\loogin\obj\Debug\QUANLYBANHANG.csproj.GenerateResource.cache
+D:\WinForm C#\loogin\loogin\obj\Debug\QUANLYBANHANG.csproj.CoreCompileInputs.cache
+D:\WinForm C#\loogin\loogin\obj\Debug\QUANLYBA.909FD013.Up2Date
+D:\WinForm C#\loogin\loogin\obj\Debug\loogin.exe
+D:\WinForm C#\loogin\loogin\obj\Debug\loogin.pdb

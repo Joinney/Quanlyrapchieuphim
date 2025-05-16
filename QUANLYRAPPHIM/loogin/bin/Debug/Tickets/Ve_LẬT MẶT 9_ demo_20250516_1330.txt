@@ -1,0 +1,15 @@
+﻿======== VÉ XEM PHIM ========
+Phim       : LẬT MẶT 9: demo
+Rạp        : CINEMA 05
+Suất chiếu : 16/05/2025 13:30
+Ghế đã mua:
+ - G8 | Giá: 85 đ
+ - G9 | Giá: 85 đ
+ - G10 | Giá: 85 đ
+-----------------------------
+Tổng tiền : 255 đ
+Giảm giá  : 0 đ
+Phải trả  : 255 đ
+=============================
+Cảm ơn bạn đã mua vé tại CGV G2TD!
+Chúc bạn xem phim vui vẻ :))

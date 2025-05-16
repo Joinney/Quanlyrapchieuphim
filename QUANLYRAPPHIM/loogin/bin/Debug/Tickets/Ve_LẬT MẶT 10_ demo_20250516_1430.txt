@@ -1,0 +1,17 @@
+﻿======== VÉ XEM PHIM ========
+Phim       : LẬT MẶT 10: demo
+Rạp        : CINEMA 05
+Suất chiếu : 16/05/2025 14:30
+Khách hàng : VDT
+Điểm còn lại: 6
+Ghế đã mua:
+ - G10 | Giá: 85 đ
+ - G11 | Giá: 85 đ
+ - G12 | Giá: 85 đ
+-----------------------------
+Tổng tiền : 255 đ
+Giảm giá  : 0 đ
+Phải trả  : 255 đ
+=============================
+Cảm ơn bạn đã mua vé tại CGV G2TD!
+Chúc bạn xem phim vui vẻ :))

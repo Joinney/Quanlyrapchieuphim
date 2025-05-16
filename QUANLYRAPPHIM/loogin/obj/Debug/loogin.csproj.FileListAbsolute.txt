@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\loogin\loogin\bin\Debug\loogin.exe.config
+C:\Users\DELL\source\repos\loogin\loogin\bin\Debug\loogin.exe
+C:\Users\DELL\source\repos\loogin\loogin\bin\Debug\loogin.pdb
+C:\Users\DELL\source\repos\loogin\loogin\obj\Debug\loogin.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\loogin\loogin\obj\Debug\loogin.Form1.resources
+C:\Users\DELL\source\repos\loogin\loogin\obj\Debug\loogin.Properties.Resources.resources
+C:\Users\DELL\source\repos\loogin\loogin\obj\Debug\loogin.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\loogin\loogin\obj\Debug\loogin.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\loogin\loogin\obj\Debug\loogin.exe
+C:\Users\DELL\source\repos\loogin\loogin\obj\Debug\loogin.pdb
+C:\Users\DELL\source\repos\loogin\loogin\bin\Debug\General.dll
+C:\Users\DELL\source\repos\loogin\loogin\bin\Debug\Hashids.net.dll
+C:\Users\DELL\source\repos\loogin\loogin\bin\Debug\General.xml
+C:\Users\DELL\source\repos\loogin\loogin\obj\Debug\loogin.MainForm.resources
+C:\Users\DELL\source\repos\loogin\loogin\obj\Debug\loogin.csproj.Up2Date

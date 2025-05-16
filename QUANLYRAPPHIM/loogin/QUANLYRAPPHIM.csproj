@@ -1,0 +1,357 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0484E578-D2B7-4018-BCED-016F4423FF87}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>loogin</RootNamespace>
+    <AssemblyName>loogin</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="General, Version=0.3.21.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\General.0.3.21\lib\net45\General.dll</HintPath>
+    </Reference>
+    <Reference Include="Hashids.net, Version=1.2.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Hashids.net.1.2.2\lib\net45\Hashids.net.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.314.76\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="formThemkhachhang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formThemkhachhang.Designer.cs">
+      <DependentUpon>formThemkhachhang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="btndoanhthu\RevenueUC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="btndoanhthu\RevenueUC.Designer.cs">
+      <DependentUpon>RevenueUC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="btnDulieu\CinemaUC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="btnDulieu\CinemaUC.Designer.cs">
+      <DependentUpon>CinemaUC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="btnDulieu\FormatMovieUC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="btnDulieu\FormatMovieUC.Designer.cs">
+      <DependentUpon>FormatMovieUC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="btnDulieu\GenreUC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="btnDulieu\GenreUC.Designer.cs">
+      <DependentUpon>GenreUC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="btnDulieu\MovieUC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="btnDulieu\MovieUC.Designer.cs">
+      <DependentUpon>MovieUC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="btnDulieu\ScreenTypeUC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="btnDulieu\ScreenTypeUC.Designer.cs">
+      <DependentUpon>ScreenTypeUC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="btnDulieu\ShowTimesUC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="btnDulieu\ShowTimesUC.Designer.cs">
+      <DependentUpon>ShowTimesUC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="btnDulieu\TicketsUC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="btnDulieu\TicketsUC.Designer.cs">
+      <DependentUpon>TicketsUC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="btnkhachhang\CustomerUC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="btnkhachhang\CustomerUC.Designer.cs">
+      <DependentUpon>CustomerUC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="btnNhanvien\StaffUC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="btnNhanvien\StaffUC.Designer.cs">
+      <DependentUpon>StaffUC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="btnTaikhoan\AccountUC .cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="btnTaikhoan\AccountUC .Designer.cs">
+      <DependentUpon>AccountUC .cs</DependentUpon>
+    </Compile>
+    <Compile Include="Config.cs" />
+    <Compile Include="DAO\Account.cs" />
+    <Compile Include="DAO\AccountDAO.cs" />
+    <Compile Include="DAO\CinemaDAO.cs" />
+    <Compile Include="DAO\CustomerDAO.cs" />
+    <Compile Include="DAO\DataProvider.cs" />
+    <Compile Include="DAO\FormatMovieDAO.cs" />
+    <Compile Include="DAO\GenreDAO.cs" />
+    <Compile Include="DAO\MovieByGenreDAO.cs" />
+    <Compile Include="DAO\MovieDAO.cs" />
+    <Compile Include="DAO\RevenueDAO.cs" />
+    <Compile Include="DAO\ScreenTypeDAO.cs" />
+    <Compile Include="DAO\ShowTimesDAO.cs" />
+    <Compile Include="DAO\Staff.cs" />
+    <Compile Include="DAO\StaffDAO.cs" />
+    <Compile Include="DAO\TicketDAO.cs" />
+    <Compile Include="DTO\Cinema.cs" />
+    <Compile Include="DTO\Customer.cs" />
+    <Compile Include="DTO\FormatMovie.cs" />
+    <Compile Include="DTO\Genre.cs" />
+    <Compile Include="DTO\Movie.cs" />
+    <Compile Include="DTO\ScreenType.cs" />
+    <Compile Include="DTO\ShowTimes.cs" />
+    <Compile Include="DTO\Ticket.cs" />
+    <Compile Include="frmCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCustomer.Designer.cs">
+      <DependentUpon>frmCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReport.Designer.cs">
+      <DependentUpon>frmReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTheatre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTheatre.Designer.cs">
+      <DependentUpon>frmTheatre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmdulieu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmdulieu.Designer.cs">
+      <DependentUpon>frmdulieu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainFormnv.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainFormnv.Designer.cs">
+      <DependentUpon>MainFormnv.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <EmbeddedResource Include="formThemkhachhang.resx">
+      <DependentUpon>formThemkhachhang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="btndoanhthu\RevenueUC.resx">
+      <DependentUpon>RevenueUC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="btnDulieu\CinemaUC.resx">
+      <DependentUpon>CinemaUC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="btnDulieu\FormatMovieUC.resx">
+      <DependentUpon>FormatMovieUC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="btnDulieu\GenreUC.resx">
+      <DependentUpon>GenreUC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="btnDulieu\MovieUC.resx">
+      <DependentUpon>MovieUC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="btnDulieu\ScreenTypeUC.resx">
+      <DependentUpon>ScreenTypeUC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="btnDulieu\ShowTimesUC.resx">
+      <DependentUpon>ShowTimesUC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="btnDulieu\TicketsUC.resx">
+      <DependentUpon>TicketsUC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="btnkhachhang\CustomerUC.resx">
+      <DependentUpon>CustomerUC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="btnNhanvien\StaffUC.resx">
+      <DependentUpon>StaffUC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="btnTaikhoan\AccountUC .resx">
+      <DependentUpon>AccountUC .cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCustomer.resx">
+      <DependentUpon>frmCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReport.resx">
+      <DependentUpon>frmReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTheatre.resx">
+      <DependentUpon>frmTheatre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmdulieu.resx">
+      <DependentUpon>frmdulieu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainFormnv.resx">
+      <DependentUpon>MainFormnv.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include=".editorconfig" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Report.rdlc" />
+    <None Include="Resources\Screenshot 2025-02-14 130536 %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\png-clipart-computer-icons-user-profile-login-my-account-icon-heroes-black.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\debut.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\207-2073115_font-password-comments-password-icon-png-transparent.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-user-icon-3296-thumb.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="General.Icon.png" />
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <None Include="Resources\2605_man-hinh-rap-chieu-phim1.jpg" />
+    <None Include="Resources\2605_man-hinh-rap-chieu-phim.jpg" />
+    <None Include="Resources\Untitled-2_0008_Layer.png" />
+    <None Include="Resources\Untitled-2_0007_Layer-2.png" />
+    <None Include="Resources\Untitled-2_0006_Layer-3.png" />
+    <None Include="Resources\Untitled-2_0005_Layer-4.png" />
+    <None Include="Resources\Untitled-2_0004_Layer-5.png" />
+    <None Include="Resources\Untitled-2_0003_Layer-6.png" />
+    <None Include="Resources\Untitled-2_0002_Layer-7.png" />
+    <None Include="Resources\Untitled-2_0001_Layer-8.png" />
+    <None Include="Resources\Untitled-2_0000_Layer-9.png" />
+    <None Include="Resources\search-icon.png" />
+    <None Include="Resources\pie-chart.png" />
+    <None Include="Resources\people-2-512.png" />
+    <None Include="Resources\openfolder_4896.png" />
+    <None Include="Resources\New-Database-icon.png" />
+    <None Include="Resources\LoginIconAppl.png" />
+    <None Include="Resources\login_user_profile_account_logout_people_man_human-512.png" />
+    <None Include="Resources\employee-office-staff-3d735bc691173bb5-256x256.png" />
+    <None Include="Resources\Apps-Dialog-Shutdown-icon.png" />
+    <None Include="Resources\usersn.jpg" />
+    <None Include="Resources\eye_closed.png" />
+    <None Include="Resources\welcom.png" />
+    <None Include="Resources\users.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

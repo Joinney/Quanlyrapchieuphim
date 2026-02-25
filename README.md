@@ -10,6 +10,9 @@
 
 Dự án là một ứng dụng Desktop được xây dựng trên nền tảng **Windows Forms (WinForms)** với ngôn ngữ **C#** và hệ quản trị cơ sở dữ liệu **SQL Server**. 
 
+**Màn hình đăng nhập:**
+![Màn hình đăng nhập](https://raw.githubusercontent.com/Joinney/Quanlyrapchieuphim/refs/heads/master/img/Screenshot%202026-02-25%20230053.png)
+
 Hệ thống được thiết kế nhằm tin học hóa quy trình vận hành tại các rạp chiếu phim, hỗ trợ nhân viên thực hiện thao tác bán vé trực quan, nhanh chóng, đồng thời cung cấp công cụ đắc lực giúp nhà quản lý theo dõi doanh thu, lịch chiếu và nhân sự một cách toàn diện.
 
 ## 🚀 Tính năng nổi bật

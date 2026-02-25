@@ -15,7 +15,7 @@ Dự án là một ứng dụng Desktop được xây dựng trên nền tảng 
 
 Hệ thống được thiết kế nhằm tin học hóa quy trình vận hành tại các rạp chiếu phim, hỗ trợ nhân viên thực hiện thao tác bán vé trực quan, nhanh chóng, đồng thời cung cấp công cụ đắc lực giúp nhà quản lý theo dõi doanh thu, lịch chiếu và nhân sự một cách toàn diện.
 **Giao diện bán vé:**
-![Giao diện bán vé]([./images/giao-dien-ban-ve.png](https://raw.githubusercontent.com/Joinney/Quanlyrapchieuphim/refs/heads/master/img/Screenshot%202026-02-25%20230146.png))
+![Giao diện bán vé]((https://raw.githubusercontent.com/Joinney/Quanlyrapchieuphim/refs/heads/master/img/Screenshot%202026-02-25%20230146.png))
 
 ## 🚀 Tính năng nổi bật
 
@@ -25,7 +25,7 @@ Hệ thống được thiết kế nhằm tin học hóa quy trình vận hành 
 - **Quản lý Nhân sự & Khách hàng:** Quản lý thông tin, phân quyền tài khoản nhân viên và theo dõi dữ liệu khách hàng thành viên.
 - **Thống kê & Báo cáo:** Cung cấp biểu đồ trực quan về doanh thu, xuất báo cáo thống kê số lượng vé bán ra theo ngày/tháng/năm.
 **Báo cáo doanh thu:**
-![Báo cáo doanh thu](github.com/Joinney/Quanlyrapchieuphim/blob/master/img/Screenshot%202026-02-25%20230156.png?raw=true)
+![Báo cáo doanh thu]([github.com/Joinney/Quanlyrapchieuphim/blob/master/img/Screenshot%202026-02-25%20230156.png?raw=true](https://raw.githubusercontent.com/Joinney/Quanlyrapchieuphim/refs/heads/master/img/Screenshot%202026-02-25%20230156.png))
 
 ### 🎫 Phân hệ Nhân viên (Staff)
 - **Bán vé trực quan:** Chọn suất chiếu, thao tác chọn vị trí ghế ngồi trực tiếp trên sơ đồ phòng chiếu mô phỏng thực tế.

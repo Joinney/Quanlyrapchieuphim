@@ -15,7 +15,7 @@ Dự án là một ứng dụng Desktop được xây dựng trên nền tảng 
 
 Hệ thống được thiết kế nhằm tin học hóa quy trình vận hành tại các rạp chiếu phim, hỗ trợ nhân viên thực hiện thao tác bán vé trực quan, nhanh chóng, đồng thời cung cấp công cụ đắc lực giúp nhà quản lý theo dõi doanh thu, lịch chiếu và nhân sự một cách toàn diện.
 **Giao diện bán vé:**
-![Giao diện bán vé]((https://raw.githubusercontent.com/Joinney/Quanlyrapchieuphim/refs/heads/master/img/Screenshot%202026-02-25%20230146.png))
+![Giao diện bán vé]([./images/giao-dien-ban-ve.png](https://raw.githubusercontent.com/Joinney/Quanlyrapchieuphim/refs/heads/master/img/Screenshot%202026-02-25%20230146.png)
 
 ## 🚀 Tính năng nổi bật
 
